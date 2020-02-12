@@ -1,0 +1,6 @@
+[submodule "nrf5_sdk"]
+	path = nrf5_sdk
+	url = git@github.com:RogetK/nrf5_sdk.git
+[submodule "contiki-uwb"]
+	path = contiki-uwb
+	url = git@github.com:RogetK/contiki-uwb.git
